@@ -1,0 +1,16 @@
+default-character-set=latin1
+default-collation=latin1_swedish_ci
+
+create table student
+(
+name varchar(20),
+sn int,
+mysql int,
+english double(5,2),
+java double(5,2)
+);
+
+insert into student values(Lili,
+
+insert into student(name) values
+  (Lili)
